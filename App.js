@@ -5,10 +5,8 @@ import LoginScreen from "./src/Screens/LoginScreen";
 import RegisterScreen from "./src/Screens/RegisterScreen";
 import OrderScreen from "./src/Screens/OrderScreen";
 import BottomNav from "./src/Navigations/BottomNav";
-import OrderCompleteScreen from "./src/Screens/OrderCompleteScreen";
 import RegularScreen from "./src/Screens/RegularScreen";
 import SettingsEdit from "./src/Components/Profile/SettingsEdit";
-import ProfileScreen from "./src/Screens/ProfileScreen";
 
 const Stack = createNativeStackNavigator();
 
